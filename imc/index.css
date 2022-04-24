@@ -1,0 +1,25 @@
+.section {
+  border: solid 1px #000;
+  width: 400px;
+  margin: 400px auto;
+  text-align: center;
+}
+
+.section h1 {
+  border-bottom: solid 1px #000;
+  text-align: center;
+}
+input[type="text"] {
+  width: 100px;
+  display: inline-block;
+  text-align: center;
+}
+
+.calcularField {
+  border-top: solid 1px #000;
+}
+
+button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
